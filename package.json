@@ -1,0 +1,15 @@
+{
+  "name": "week-02-lab",
+  "version": "1.0.0",
+  "description": "This is the WEEK 2 Lab for MAPD-713 to create a server in Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nkemjika Derick Obi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
