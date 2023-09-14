@@ -10,7 +10,7 @@ npm run install
 yarn install
 ```
 
-First, run the development server:
+Secondly, run the development server:
 
 ```bash
 npm run dev
@@ -18,4 +18,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser or postman to see the result.
+Finally, Open [http://localhost:3000](http://localhost:3000) with your browser or postman to see the result.
